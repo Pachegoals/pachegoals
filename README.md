@@ -9,7 +9,7 @@ My name is Sergio, I'm from Argentina 🇦🇷 and I'm a C# .NET Trainee Develop
 - SQL with MySQL and SQL Server.
 - Using different Linux based distributions as a hobby since 2019.
 - BASH scripting. 🐧
-- HTML and CSS for MVC & Blazor.
+- HTML/CSS for MVC & Blazor.
 - Learning Docker. 🐋
 - Some Python coding.
 - Hardware fan, Software lover. 💻
