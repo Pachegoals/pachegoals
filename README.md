@@ -16,7 +16,7 @@ My name is Sergio, I'm from Argentina 🇦🇷 and I'm a C# .NET Trainee Develop
 - JDM Cars entushiast. 🇯🇵
 
 ## Contact 
-Linkedin
+[Linkedin](https://www.linkedin.com/in/sergio-pacheco-510618196/)
 <!--
 **Pachegoals/pachegoals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
