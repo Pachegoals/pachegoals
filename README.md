@@ -12,7 +12,6 @@ My name is Sergio, I'm from Argentina 🇦🇷 and I'm a C# .NET Trainee Develop
 - HTML/CSS for MVC & Blazor.
 - Learning Docker. 🐋
 - Some Python coding.
-- Hardware fan, Software lover. 💻
 - JDM Cars entushiast. 🇯🇵
 
 ## Contact 
